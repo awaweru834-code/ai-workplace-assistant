@@ -1,0 +1,24 @@
+# ── Web Framework ──────────────────────────────────────────────────────────────
+fastapi[standard]
+uvicorn[standard]
+python-multipart
+
+# ── Database (Neon PostgreSQL) ─────────────────────────────────────────────────
+sqlalchemy
+psycopg2-binary
+
+# ── Auth & Security ────────────────────────────────────────────────────────────
+python-jose[cryptography]
+passlib[bcrypt]
+slowapi
+
+# ── AI & Vector DB ─────────────────────────────────────────────────────────────
+google-genai
+pinecone
+
+# ── PDF Ingestion ──────────────────────────────────────────────────────────────
+PyPDF2
+
+# ── Utilities ──────────────────────────────────────────────────────────────────
+pydantic[email]
+python-dotenv
