@@ -19,16 +19,5 @@ IBM Bob served as our core AI-infused development partner throughout this projec
 *   **Structured Debugging:** We utilized Bob in "Code mode" with structured prompts to analyze our source code for syntax and functional errors[cite: 4].
 *   **Safe Code Implementation:** We relied on Bob's Side-by-Side Diff workflow to review and apply proposed fixes safely while maintaining our original file structures[cite: 4].
 
-*(Add a screenshot of your Next.js UI here)*
-*(Add a screenshot of IBM Bob fixing your code here)*
-landing page
-![alt text](sreenshoots/image-1.png)
-log in page
-![alt text](screenshots/image-2.png)
-hr_admin interface
-![alt text](screenshots/image-3.png)
-![alt text](screenshots/image-4.png)
-![alt text](screenshots/image-5.png)
-![alt text](screenshots/image-7.png)
-new_hire interface
-![alt text](screenshots/image-6.png)
+<img width="947" height="436" alt="image" src="https://github.com/user-attachments/assets/b4a8a238-5ebf-4cd0-9fb9-d18b1d71e91a" />
+
