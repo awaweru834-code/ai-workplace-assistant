@@ -20,4 +20,16 @@ IBM Bob served as our core AI-infused development partner throughout this projec
 *   **Safe Code Implementation:** We relied on Bob's Side-by-Side Diff workflow to review and apply proposed fixes safely while maintaining our original file structures[cite: 4].
 
 <img width="947" height="436" alt="image" src="https://github.com/user-attachments/assets/b4a8a238-5ebf-4cd0-9fb9-d18b1d71e91a" />
+<img width="947" height="436" alt="image-1" src="https://github.com/user-attachments/assets/87d3572e-daaf-456b-acf1-37d3099607f1" />
+<img width="954" height="429" alt="image-2" src="https://github.com/user-attachments/assets/cb4f3696-a5d3-4937-82f5-ddec25e9dd7f" />
+<img width="952" height="434" alt="image-3" src="https://github.com/user-attachments/assets/ae5b7ab1-9a55-4e78-aec8-f4c25fff9e1d" />
+<img width="948" height="440" alt="image-4" src="https://github.com/user-attachments/assets/a455cf0d-4e4c-4d09-9d97-f3a86094aa21" />
+<img width="928" height="435" alt="image-5" src="https://github.com/user-attachments/assets/e9aa2d18-19b7-434e-81ea-56ccb7b6fb38" />
+<img width="941" height="446" alt="image-6" src="https://github.com/user-attachments/assets/aeb9ded5-c1b2-439d-b5e9-2b7c8559a2d9" />
+<img width="917" height="420" alt="image-7" src="https://github.com/user-attachments/assets/dfebebdd-1351-4aca-9d1f-98f65481c361" />
+
+
+
+
+
 
