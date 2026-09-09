@@ -1,5 +1,5 @@
 # AI Corporate Onboarding & Policy Co-Worker
-To run use this ctedentials
+To run use this credentials
  hr_admin username: man
           password:manman
 new hire: username: ann
