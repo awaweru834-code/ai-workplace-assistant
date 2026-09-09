@@ -1,4 +1,9 @@
 # AI Corporate Onboarding & Policy Co-Worker
+To run use this ctedentials
+ hr_admin username: man
+          password:manman
+new hire: username: ann
+          password: ann
 
 🚀 **Live Demo:** https://ai-workplace-assistant-ruby.vercel.app/dashboard
 
