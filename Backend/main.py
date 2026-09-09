@@ -37,7 +37,7 @@ app.add_exception_handler(exc_class_or_status_code=RateLimitExceeded, handler=_r
 # ── CORS ───────────────────────────────────────────────────────────────────────
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["http://localhost:3000", "http://localhost:5173"],
+    allow_origins=["http://localhost:3000", "http://localhost:5173","https://ai-workplace-assistant-ruby.vercel.app"],
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],

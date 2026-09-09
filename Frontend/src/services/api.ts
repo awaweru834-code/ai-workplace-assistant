@@ -6,7 +6,9 @@ export interface AuthTokenPayload extends JwtPayload {
   role: string;
 }
 
-export const api = axios.create({ baseURL: 'http://localhost:8000' });
+export const api = axios.create({
+  baseURL: 'https://your-actual-backend-name.onrender.com',
+});
 
 api.interceptors.request.use((config) => {
   const token = localStorage.getItem('token');
