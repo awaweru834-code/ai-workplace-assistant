@@ -7,7 +7,7 @@ export interface AuthTokenPayload extends JwtPayload {
 }
 
 export const api = axios.create({
-  baseURL: 'https://your-actual-backend-name.onrender.com',
+  baseURL: ' https://ai-workplace-assistant-1.onrender.com',
 });
 
 api.interceptors.request.use((config) => {
