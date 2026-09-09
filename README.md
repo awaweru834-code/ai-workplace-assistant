@@ -1,6 +1,6 @@
 # AI Corporate Onboarding & Policy Co-Worker
 
-🚀 **Live Demo:** [Add your Vercel Link Here]
+🚀 **Live Demo:** https://ai-workplace-assistant-ruby.vercel.app/dashboard
 
 ## Overview
 *   **Selected Theme:** Wildcard Challenge - Build Intelligent Systems for the Future of Work[cite: 1].
